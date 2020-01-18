@@ -1,0 +1,6 @@
+{
+    "backend": {
+        "base": "http://localhost:8080"
+    },
+    "lang": "en"
+}

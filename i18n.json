@@ -1,0 +1,155 @@
+{
+    "en": {        
+        "reset": {
+            "title": "Reset password",
+            "success": "An email has been sent to reset the password"
+        },
+        "hash": {
+            "errorIntegrity" : "The information has been forged"
+        },
+        "password": {
+            "title": "Create password",
+            "save": "Save password",
+            "confirm": "Confirm password",
+            "errorConfirmMatch": "The field does not match the password",
+            "errorConfirmEmpty": "The field is required",
+            "success": "The password was saved successfully"
+        },
+        "menu": {
+            "signout": "Sign out"
+        },
+        "services": {
+            "errorStatus0": "The system is failed. Please try later"
+        },
+        "p403": {
+            "title": "Access denied",
+            "message": "You do not have the permissions to access",
+            "goToHome": "Go to home"
+        },
+        "p404": {
+            "title": "Page not found",
+            "message": "Sorry, but the content was not found",
+            "goToHome": "Go to home"
+        },
+        "home": {
+            "title": "Home",
+            "welcome": "Welcome {name}!",
+            "message": "you will be part of something great"
+
+        },
+        "lang": {
+            "title": "Language",
+            "selectLang": "Select language",
+            "en": "English",
+            "es": "Spanish"
+        },
+        "account": {
+            "errorDisabled": "The account is disabled",
+            "errorSignin": "Please provide a valid email and password",
+            "errorPasswordEmpty": "The password is required",
+            "errorPasswordLength": "The length of the password must be less than 100 characters",
+            "errorTokenEmpty" : "The token is required",
+            "errorPasswordWasNotSaved": "The password was not saved",
+            "password": "Password"
+        },
+        "signin": {
+            "title": "Sign in",
+            "forgottenPassword": "Forgotten password?",
+            "success": "You have signed in successfully"
+        },
+        "signup": {
+            "title": "Sign up",
+            "success": "You have signed up successfully. An email has been sent you to set the password"
+        },
+        "person": {
+            "email": "Email",
+            "firstName": "Name",
+            "lastName": "Last name",
+            "errorFirstNameEmpty": "The name is required",
+            "errorFirstNameLength": "The length of the name must be less than 200 characters",
+            "errorLastNameEmpty": "The last name is required",
+            "errorLastNameLength": "The length of the last name must be less than 200 characters",
+            "errorEmailLength": "The length of the email must be less than 100 characters",
+            "errorEmailEmail": "The email must be correct",
+            "errorEmailEmpty": "The email is required",
+            "errorEmailNotUnique": "The email has already been registered",
+            "errorEmailDoesNotExist" : "The email has not been registered"
+        }
+    },
+    "es": {
+        "reset": {
+            "title": "Resetear contraseña",
+            "success": "An email has been sent to reset the password"
+        },
+        "hash": {
+            "errorIntegrity" : "La información ha sido falsificada"
+        },
+        "password": {
+            "title": "Crear contraseña",
+            "save": "Guardar contraseña",
+            "confirm": "Confirmar contraseña",
+            "errorConfirmMatch": "No coincide con la contraseña",
+            "errorConfirmEmpty": "El campo es requerido",
+            "success": "La contraseña fue guardada exitosamente"
+        },
+        "menu": {
+            "signout": "Salir"
+        },
+        "services": {
+            "errorStatus0": "El sistema ha fallado. Por favor intentarlo más tarde"
+        },
+        "p403": {
+            "title": "Acceso denegado",
+            "message": "No tienes permisos para acceder",
+            "goToHome": "Ir al inicio"
+        },
+        "p404": {
+            "title": "La página no fue encontrada",
+            "message": "El contenido no fue encontrado",
+            "goToHome": "Ir al inicio"
+        },
+        "home": {
+            "title": "Inicio",
+            "welcome": "{name}! te damos la bienvenida",
+            "message": "Pronto serás parte de algo grandioso"
+        },
+        "lang": {
+            "title": "Idioma",
+            "selectLang": "Seleccione idioma",
+            "en": "Inglés",
+            "es": "Español"
+        },
+        "account": {
+            "errorDisabled": "La cuenta está bloqueada",
+            "errorSignin": "Por favor proporcionar un correo electrónico y contraseña válidos",
+            "errorPasswordEmpty": "La contraseña es requerida",
+            "errorPasswordLength": "La longitud de la contraseña debe ser inferior a 100 caracteres",
+            "errorTokenEmpty" : "El token es requerido",
+            "errorPasswordWasNotSaved": "La contraseña no fue guardada",
+            "password": "Contraseña"
+        },
+        "signin": {
+            "title": "Iniciar sesión",
+            "forgottenPassword": "¿Olvidaste contraseña?",
+            "success": "Has iniciado sesión exitosamente"
+        },
+        "signup": {
+            "title": "Registrarse",
+            "success": "El registro ha sido exitoso. Se ha enviado un correo electrónico para registrar el password"
+        },
+        "person": {
+            "email": "Correo electrónico",
+            "firstName": "Nombre",
+            "lastName": "Apellido",
+            "errorFirstNameEmpty": "El nombre es requerido",
+            "errorFirstNameLength": "La longitud del nombre debe ser inferior a 200 caracteres",
+            "errorLastNameEmpty": "El apellido es requerido",
+            "errorLastNameLength": "La longitud del apellido debe ser inferior a 200 caracteres",
+            "errorEmailLength": "La longitud del correo electrónico debe ser inferior a 100 caracteres",
+            "errorEmailEmail": "El correo electrónico debe ser correcto",
+            "errorEmailEmpty": "El coreo eletrónico es requerido",
+            "errorEmailNotUnique": "El correo electrónico ya ha sido registrado",
+            "errorEmailDoesNotExist" : "El correo electrónico no ha sido registrado"
+        }
+    }
+}
